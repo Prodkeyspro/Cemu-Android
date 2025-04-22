@@ -6,6 +6,8 @@
 
 ## ProdKeys For Cemu Android For Other Rom ( Wux , Other )
 * [ProdKeys](https://prodkeys.net/cemu-keys/)
+* [Yuzu Prod Keys](https://prodkeyspro.com/yuzu-prod-keys/)
+
 
 ## Note For ProdKeys Cemu Android
 * Copy File Keys.txt To Android > data > info.cemu.Cemu > files > Here
